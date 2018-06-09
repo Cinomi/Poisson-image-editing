@@ -1,0 +1,1 @@
+ seamlessCloning_gray();
